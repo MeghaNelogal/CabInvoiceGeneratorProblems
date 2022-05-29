@@ -8,6 +8,7 @@ namespace CabInvoiceGeneratorProblem
 {
     public enum RideType
     {
-        NORMAL,PREMIER
+        NORMAL,PREMIER,
+        PREMIUM
     }
 }
